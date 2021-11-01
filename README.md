@@ -1,0 +1,2 @@
+# hypeblog
+blog increible
