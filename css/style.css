@@ -18,3 +18,10 @@ body{
     width: 50px;
     vertical-align: middle;
 }
+#footer{
+  background-color: gray;
+    text-decoration:white;
+    text-align: center;
+    height: 50px;
+   
+}
