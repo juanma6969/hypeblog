@@ -9,6 +9,12 @@ body{
     margin: 0 auto;
 }
 #cabecera{
+  
     background-color: blue;
     text-decoration-color: white;
+   
+}
+#logo{
+    width: 50px;
+    vertical-align: middle;
 }
